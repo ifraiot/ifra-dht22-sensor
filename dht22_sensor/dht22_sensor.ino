@@ -1,12 +1,12 @@
 #include "iFraSDK.h"
 #include "iFraESP32SDK.h"
 #include "DHT.h"
-#define WIFI_SSID     "ifrasoft"
-#define WIFI_PASSWORD  "@ifrasoft2020"
+#define WIFI_SSID     "<ชื่อ WIFI>"
+#define WIFI_PASSWORD  "<รหัสผ่าน WIFI>"
 
-#define  USERNAME    "9d11c6c4-c711-49b8-87e4-98947072e514"
-#define  PASSWORD    "d5d0bfab-4131-4349-9c75-5162117ca8db"
-#define  CHANNEL       "d8d74ab3-2689-4343-bf79-78f2b0083fd9"
+#define  USERNAME    "<Username API KEY>"
+#define  PASSWORD    "<Password API KEY>"
+#define  CHANNEL     "<Channel API KEY>"
 
 
 #define DHTPIN 2 
